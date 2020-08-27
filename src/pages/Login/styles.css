@@ -1,0 +1,17 @@
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    width: 95vw;
+}
+
+label {
+    font-size: 2.6rem;
+}
+
+p {
+    line-height: 1.6rem;
+    cursor: pointer;
+}
